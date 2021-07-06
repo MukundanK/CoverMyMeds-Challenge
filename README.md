@@ -10,6 +10,7 @@ All the data for this project was provided by [CoverMyMeds](https://www.covermym
 * [Model](#Model)
 * [Result](#Result)
 * [Repository contents](#Repository-contents)
+* Acknowledgment (#Acknowledgement)
 
 # Problem Description
 CoverMyMeds, part of McKesson's Prescription Technology Solutions, is a fast growing healthcare technology company. The primary goal of CoverMyMeds is to help patients get the medications they need by seamlessly connecting the healthcare network to improve medication access. In this challenge, the participants are required to use simulated data provided by CoverMyMeds to answer the following questions :
@@ -55,3 +56,6 @@ For more information on the data, please refer to the [EDA notebook](EDA.ipynb)
 # Result
 
 # Repository contents
+
+# Acknowledgements
+All the work published in this repository are my own. However, I would like to thank Siqi Sun and Ruqaiyah Muhammad with whom I had the wonderful opportunity to collaborate on this project during the course of the bootcamp. I am grateful to them for many wonderful discussions and brainstroming sessions!
