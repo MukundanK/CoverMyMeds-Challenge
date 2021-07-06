@@ -2,7 +2,7 @@
 Help you get the meds you need!
 
 This project was done as a part of the Erdös Institute May 2021 BootCamp
-All the data for this project was provided by CoverMyMeds(https://www.covermymeds.com/main/).  
+All the data for this project was provided by [CoverMyMeds](https://www.covermymeds.com/main/).  
 
 # Table of contents
 * [Problem Description](#Problem-Description)
@@ -48,7 +48,7 @@ It turns out that two identical PAs for a certain drug rejected by an insurance 
 
 I also noticed that date, whether workday, holiday or weekday, has limited impact on the PA approval status, suggesting the approval is not biased towards time. In addition to the given information, there might be other variables that influence the final decision on a PA.
 
-For more information on the data, please refer to the [EDA notebook](EDA.ipynb)
+For more information on the data, please refer to the [EDA notebook](./main/NoteBooks/EDA.ipynb)
 # Model
 # Result
 
