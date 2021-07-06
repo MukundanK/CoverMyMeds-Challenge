@@ -58,4 +58,4 @@ For more information on the data, please refer to the [EDA notebook](EDA.ipynb)
 # Repository contents
 
 # Acknowledgements
-All the work published in this repository are my own. However, I would like to thank Siqi Sun and Ruqaiyah Muhammad with whom I had the wonderful opportunity to collaborate on this project during the course of the bootcamp. I am grateful to them for many wonderful discussions and brainstroming sessions!
+All the work published in this repository are my own. However, I would like to thank [Siqi Sun](https://github.com/alohasiqi) and [Ruqiah Muhammad](https://github.com/Ruqiah314) with whom I had the wonderful opportunity to collaborate on this project during the course of the bootcamp. I am grateful to them for many wonderful discussions and brainstroming sessions!
