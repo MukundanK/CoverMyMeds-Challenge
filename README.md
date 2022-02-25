@@ -4,13 +4,13 @@ Help you get the meds you need!
 This project was done as a part of the Erdös Institute May 2021 BootCamp. <br>
 All the data for this project was provided by [CoverMyMeds](https://www.covermymeds.com/main/).  
 
-# Table of contents
+<!-- # Table of contents
 * [Problem Description](#Problem-Description)
 * [Data](#Data) 
 * [Model](#Model)
 * [Result](#Result)
 * [Repository contents](#Repository-contents)
-* [Acknowledgement](#Acknowledgement)
+* [Acknowledgement](#Acknowledgement) -->
 
 # Problem Description
 CoverMyMeds, part of McKesson's Prescription Technology Solutions, is a fast growing healthcare technology company. The primary goal of CoverMyMeds is to help patients get the medications they need by seamlessly connecting the healthcare network to improve medication access. In this challenge, the participants are required to use simulated data provided by CoverMyMeds to answer the following questions :
