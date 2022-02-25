@@ -19,7 +19,7 @@ CoverMyMeds, part of McKesson's Prescription Technology Solutions, is a fast gro
 2. If a claim is rejected, can the reason for rejection (rejection code) be predicted?
 3. Can the approval of a Prior Authorization (PA) request be predicted? If so, what are the factors that influence PA approval?
 
-# Data
+<!-- # Data
 There are four tables provided with the challenge : dim_claims.csv , dim_pa.csv , dim_date.csv and bridge.csv 
 
 _dim_claims.csv_ contains information regarding the initial pharmacy claim, drug and payer. It also contains the information if the pharmacy claim was approved or rejected. If rejected, it provides the specific rejection code. 
@@ -50,12 +50,12 @@ It turns out that two identical PAs for a certain drug rejected by an insurance 
 I also noticed that date, whether workday, holiday or weekday, has limited impact on the PA approval status, suggesting the approval is not biased towards time. In addition to the given information, there might be other variables that influence the final decision on a PA.
 
 For more information on the data, please refer to the [EDA notebook](EDA.ipynb)
+ -->
+<!-- # Model -->
 
-# Model
+<!-- # Result -->
 
-# Result
-
-# Repository contents
+<!-- # Repository contents -->
 
 # Acknowledgement
 All the work published in this repository are my own. However, I would like to thank [Siqi Sun](https://github.com/alohasiqi) and [Ruqiah Muhammad](https://github.com/Ruqiah314) with whom I had the wonderful opportunity to collaborate on this project during the course of the bootcamp. I am grateful to them for many wonderful discussions and brainstroming sessions!
